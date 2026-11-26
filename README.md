@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá👋
 - Cursando Desenvolvimento de Sistemas no SENAI
 - Gosto de fazer simulações de física e pequenos jogos em c++
-- Campeão de xadrez dos Jogos Escolares de Amparo e da Copa InterSesi Regional
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=heitorangeli&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=heitorangeli&langs_count=4&theme=light_github)
+- Campeão de xadrez dos Jogos Escolares de Amparo e da Copa InterSesi Regional<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorangeli&layout=compact&card_width=1020&theme=dark&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heitorangeli&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=3fb950&point=8b949e&area=false&hide_border=false" alt="Contribution Graph" />
+</div>
