@@ -9,6 +9,7 @@
 </ul>
 
 <br clear="right" />
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/f70831d2-bb09-4e25-a7aa-125286515e05" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorangeli&layout=compact&card_width=1020&theme=dark&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
