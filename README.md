@@ -9,6 +9,7 @@
 </ul>
 
 <br clear="right" />
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorangeli&layout=compact&card_width=1030&theme=dark&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
