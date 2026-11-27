@@ -21,5 +21,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorangeli&layout=compact&card_width=1030&theme=dark&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heitorangeli&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=3fb950&point=8b949e&area=false&hide_border=false" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/heitorangeli/heitorangeli/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
